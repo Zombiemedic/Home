@@ -1,0 +1,3 @@
+#!/bin/bash
+
+brew update;brew upgrade;brew cleanup;echo "Your update is done"
